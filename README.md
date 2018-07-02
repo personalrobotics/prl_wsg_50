@@ -119,7 +119,7 @@ Remains unchanged; new features not implemented here.
 ## Connecting the Gripper
 
 1. Connect the lan line for the gripper and ensure connection to the following ip address <br />
-   192.168.1.20
+   192.168.3.20
 
 ## wsg_50_driver Setup/Operation 
 1. Make sure the gripper is connected.
